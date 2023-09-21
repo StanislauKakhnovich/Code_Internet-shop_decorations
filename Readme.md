@@ -1,0 +1,1 @@
+This is code fore site Internet-shop decorations. It made for designer Anastasia Psevkina.
