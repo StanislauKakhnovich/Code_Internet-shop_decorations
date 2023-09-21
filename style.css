@@ -1,0 +1,9 @@
+.image-item {
+  height: 300px;
+  width: 300px;
+}
+.image-item img {
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+}
